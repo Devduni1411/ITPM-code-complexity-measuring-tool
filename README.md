@@ -23,8 +23,8 @@ Result
 
 * Upload file in to tool.
 
-![upload](https://user-images.githubusercontent.com/49511796/82689205-c0541a80-9c77-11ea-91e6-783b9568c4d6.png)
 
+![size edit](https://user-images.githubusercontent.com/49511796/82689489-2e004680-9c78-11ea-9d64-0ba882615568.JPG)
 
 
 ![coupling edit](https://user-images.githubusercontent.com/49511796/82689375-fbeee480-9c77-11ea-81a9-3ab3e06a5e2d.JPG)
