@@ -8,3 +8,4 @@ b. Inheritance
 c. Coupling
 d. Control structures
 
+![control structure edit](https://user-images.githubusercontent.com/49511796/82688672-e4fbc280-9c76-11ea-9d45-d16e32b6e382.JPG)
